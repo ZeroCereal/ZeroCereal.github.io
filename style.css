@@ -1,6 +1,9 @@
 body {
+    background-color: #a84d90;
+}
+
+p {
   color : #35B2EB;
-  background-color: #a84d90;
 }
 
 /* unvisited link */
