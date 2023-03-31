@@ -1,5 +1,6 @@
 body {
-  color :#35B2EB
+  color : #35B2EB;
+  background-color: #6e6c73;
 }
 
 /* unvisited link */
@@ -23,5 +24,5 @@ a:active {
 }
 
 Ul {
-  font-weight: 150
+  font-weight: 150;
 }
